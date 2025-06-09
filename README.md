@@ -1,7 +1,7 @@
 
 
 # Welcome to keitagames 
-![Header](https://raw.githubusercontent.com/keitagame/keitagame.github.io/logo.svg)
+![Header](https://raw.githubusercontent.com/keitagame/keitagame.github.io/blob/main/logo.svg)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase)
 
