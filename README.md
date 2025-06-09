@@ -20,7 +20,7 @@
 <table>
 <tr>
 <td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=Cpp.svg" width="100" height="100" alt="Flutter" />
+<img src="https://skillicons.dev/icons?i=cpp" width="100" height="100" alt="Flutter" />
 <br><strong>C++</strong>
 </td>
 <td width="400" align="left">
