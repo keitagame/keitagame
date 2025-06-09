@@ -37,6 +37,10 @@ super keitagames
 </tr>
 </table>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+Im+a+User+%F0%9F%91%8B;KTG+Developer+%F0%9F%9A%80;KTG+dev" alt="Typing SVG" />
+</div>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase)
 
 
@@ -48,14 +52,7 @@ super keitagames
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)  
 
 
-## 🎵 Fun Fact  
-🎸 I love playing guitar and coding at the same time!  
-💡 Always curious about new tech trends!  
 
 
