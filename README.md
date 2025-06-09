@@ -42,7 +42,7 @@ super keitagames
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines="We+are+ktg+developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines="We+are+ktg+developer;" alt="Typing SVG" />
 </div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase)
