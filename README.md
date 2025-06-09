@@ -36,12 +36,10 @@ super keitagames
 </td>
 </tr>
 </table>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase)
 
-## 🚀 About Me  
-🔹 Passionate developer | Open-source enthusiast | Tech explorer  
-🔹 Love working with Python, JavaScript, and Cloud technologies  
-🔹 Always learning and sharing knowledge  
+
 
 ## 🛠 Tech Stack  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
