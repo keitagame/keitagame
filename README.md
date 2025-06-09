@@ -31,7 +31,7 @@ super keitagames
  **Location:** Japan   
  **Focus:** WAKARANN  
  **Powered by:** keitagames
- **Goal:** yeeea
+ 
 
 </td>
 </tr>
