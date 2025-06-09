@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+User+%F0%9F%91%8B;Flutter+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
-## 🌟 **About Me**
+## KTG games
 
 <div align="center">
 
@@ -21,17 +21,17 @@
 <tr>
 <td width="200" align="center">
 <img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Flutter" />
-<br><strong>Flutter</strong>
+<br><strong>keita kawase</strong>
 </td>
 <td width="400" align="left">
 
 ### 👋 **Hi, I'm User!**
-🚀 **Flutter Developer** passionate about mobile development  
+super keitagames 
 
-🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
+ **Location:** Japan   
+ **Focus:** WAKARANN  
+ **Powered by:** keitagames
+ **Goal:** yeeea
 
 </td>
 </tr>
