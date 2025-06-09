@@ -20,8 +20,8 @@
 <table>
 <tr>
 <td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=CPP" width="100" height="100" alt="Flutter" />
-<br><strong>keita kawase</strong>
+<img src="https://skillicons.dev/icons?i=CPP.svg" width="100" height="100" alt="Flutter" />
+<br><strong>C++</strong>
 </td>
 <td width="400" align="left">
 
