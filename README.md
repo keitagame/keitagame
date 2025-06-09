@@ -20,7 +20,7 @@
 <table>
 <tr>
 <td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=Next" width="100" height="100" alt="Flutter" />
+<img src="https://skillicons.dev/icons?i=Flutter" width="100" height="100" alt="Flutter" />
 <br><strong>keita kawase</strong>
 </td>
 <td width="400" align="left">
