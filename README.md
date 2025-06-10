@@ -25,7 +25,7 @@
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keitagame&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keitagame&layout=pie)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keitagame&theme=default)
 
 
 
@@ -35,7 +35,7 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keitagame&theme=default)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase)
 
 
 
