@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+Im+a+User+%F0%9F%91%8B;KTG+Developer+%F0%9F%9A%80;KTG+dev" alt="Typing SVG" />
 </div>
 
-## 🛠 Tech Stack  
+
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,cpp,go,rust,swift,kotlin,dart,php,ruby,perl,lua,bash)](https://skillicons.dev)
 
