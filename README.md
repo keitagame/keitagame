@@ -35,7 +35,8 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keitagame&theme=default)
+
 
 
 
