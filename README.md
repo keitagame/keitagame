@@ -25,25 +25,7 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=cpp" width="100" height="100" alt="Flutter" />
-<br><strong>C++</strong>
-</td>
-<td width="400" align="left">
 
-### **Hi, I'm User!**
-super keitagames 
-
- **Location:** Japan   
- **Focus:** WAKARANN  
- **Powered by:** keitagames
- 
-
-</td>
-</tr>
-</table>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
