@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+Im+a+User+%F0%9F%91%8B;KTG+Developer+%F0%9F%9A%80;KTG+dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+Im+a+keita;KTG+Developer+%F0%9F%9A%80;KTG+dev" alt="Typing SVG" />
 </div>
 
 
@@ -35,7 +35,7 @@
 </td>
 <td width="400" align="left">
 
-### 👋 **Hi, I'm User!**
+### **Hi, I'm User!**
 super keitagames 
 
  **Location:** Japan   
@@ -60,9 +60,7 @@ super keitagames
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
   
-  **⭐ From [user](https://github.com/user) with ❤️**
   
-  *"Flutter makes everything beautiful! 🦋"*
 </div>
 
 
