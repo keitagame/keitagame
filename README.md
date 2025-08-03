@@ -1,6 +1,6 @@
 
 
-# Welcome to keitagames 
+# Hey I'm keita
 
 
 <div align="center">
@@ -25,26 +25,11 @@
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keitagame&layout=pie)![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keitagame&theme=default)
-
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase)
 
 
 
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-  
-  
-</div>
+
 
 
 
