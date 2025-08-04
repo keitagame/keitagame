@@ -16,7 +16,11 @@
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts,java,cpp,go,rust,swift,kotlin,dart,php,ruby,perl,lua,bash)](https://skillicons.dev)
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=keitagame&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keitagame&show_icons=true&bg_color=0d1117&title_color=00aaff&text_color=c9d1d9&icon_color=00aaff)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keitagame&layout=compact&bg_color=0d1117&title_color=00aaff&text_color=c9d1d9)
 </div>
+
+
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=keitagame&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
