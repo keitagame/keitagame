@@ -18,6 +18,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=keitagame&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keitagame&show_icons=true&bg_color=0d1117&title_color=00aaff&text_color=c9d1d9&icon_color=00aaff)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keitagame&layout=compact&bg_color=0d1117&title_color=00aaff&text_color=c9d1d9)
+<div display="flex">
+  
+![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=keitagame&repo=Project-React&bg_color=0d1117&title_color=00aaff&text_color=c9d1d9&icon_color=00aaff)
+![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=keitagame&repo=kpm&bg_color=0d1117&title_color=00aaff&text_color=c9d1d9&icon_color=00aaff)
+</div>
 </div>
 
 
