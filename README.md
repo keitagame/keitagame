@@ -1,7 +1,7 @@
 
 
 # Hey I'm keita
-
+![](https://keita-status.onrender.com/svg?url=https://keitagames.com/frasite)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=150&section=header&animation=twinkling" />
